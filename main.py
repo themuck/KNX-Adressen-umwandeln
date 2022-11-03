@@ -17,3 +17,4 @@ while eingabe != 'quit':
     elif eingabe != 'quit':
         print('Falsches Format, H/M/U oder H/U'+'\n')
 
+quit()
